@@ -73,5 +73,9 @@ sudo rm -rf /var/log/splunk
 sudo rm -rf /var/lib/splunk
 sudo rm -rf /etc/splunkforwarder We run these commands one at a time.
 
+### * Now, to monitor our system more effectively, we need to create dashboards for several use cases based on the logs collected by Splunk Universal Forwarder and sent to Splunk Enterprise.
+
+- [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
+
 ### Note
 This content has been prepared for personal learning purposes related to the installation of Splunk software. All screenshots and software are the property of Splunk Inc. This page is not intended for commercial use.
